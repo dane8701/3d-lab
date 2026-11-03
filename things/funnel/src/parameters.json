@@ -1,0 +1,23 @@
+{
+  "scale": 1.0,
+  "mouth_outer_diameter_mm": 100.0,
+  "body_height_mm": 100.0,
+  "outlet_outer_diameter_mm": 10.0,
+  "outlet_inner_diameter_mm": 6.0,
+  "nozzle_top_outer_diameter_mm": 12.0,
+  "nozzle_length_mm": 34.0,
+  "transition_height_mm": 12.0,
+  "wall_radial_mm": 2.0,
+  "cone_facets": 24,
+  "angular_segments": 384,
+  "lip_height_mm": 0.8,
+  "lip_blend_height_mm": 2.0,
+  "loop_external_width_mm": 10.0,
+  "loop_external_height_mm": 15.0,
+  "loop_tube_diameter_mm": 2.5,
+  "loop_above_rim_mm": 10.0,
+  "loop_angle_deg": 50.0,
+  "loop_segments": 192,
+  "loop_tube_segments": 32,
+  "mesh_tolerance_mm": 0.002
+}

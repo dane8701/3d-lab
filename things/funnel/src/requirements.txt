@@ -1,0 +1,8 @@
+# Geometry, serialized STL/3MF validation and portable mesh preview.
+numpy==2.3.5
+trimesh==5.2.0
+manifold3d==3.5.4
+networkx==3.7
+lxml==6.1.1
+Pillow==12.3.0
+matplotlib==3.10.8

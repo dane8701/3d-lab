@@ -1,0 +1,66 @@
+{
+  "units": "millimeter",
+  "estimated_from_one_photo": true,
+  "physical_print_tested": false,
+  "design_dimensions_mm": {
+    "mouth_outer_diameter": 100.0,
+    "body_height": 100.0,
+    "overall_height_with_loop": 110.0,
+    "nozzle_length": 34.0,
+    "outlet_outer_diameter": 10.0,
+    "outlet_inner_diameter": 6.0,
+    "wall_radial_offset": 2.0,
+    "loop_external_width": 10.0,
+    "loop_external_height": 15.0,
+    "loop_tube_diameter": 2.5
+  },
+  "wall_note": "Radial offset; normal wall thickness varies with cone slope and faceting.",
+  "cone_facets": 24,
+  "stl": {
+    "vertices": 30200,
+    "triangles": 60404,
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "connected_components": 1,
+    "volume_mm3": 22811.698992,
+    "bounds_mm": [
+      [
+        -50.0,
+        -50.0,
+        0.0
+      ],
+      [
+        50.0,
+        50.0,
+        110.0
+      ]
+    ]
+  },
+  "loop_shell_overlap_volume_mm3": 18.630019,
+  "axis_probe": {
+    "diameter_mm": 5.8,
+    "intersection_volume_mm3": 0.0,
+    "continuous_passage_clear": true
+  },
+  "eyelet_probe": {
+    "diameter_mm": 3.8,
+    "intersection_volume_mm3": 0.0,
+    "clear": true
+  },
+  "three_mf": {
+    "mesh_count": 1,
+    "bounds_mm": [
+      [
+        -50.0,
+        -50.0,
+        0.0
+      ],
+      [
+        50.0,
+        50.0,
+        110.0
+      ]
+    ]
+  }
+}
