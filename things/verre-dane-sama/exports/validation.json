@@ -1,0 +1,157 @@
+{
+  "units": "millimeter",
+  "estimated_from_one_photo": true,
+  "physical_print_tested": false,
+  "inscriptions": [
+    "Dane SAMA",
+    "chill with me"
+  ],
+  "wall_nominal_design_mm": 2.0,
+  "floor_design_mm": 3.0,
+  "stl": {
+    "verre.stl": {
+      "vertices": 31915,
+      "triangles": 63826,
+      "watertight": true,
+      "winding_consistent": true,
+      "positive_volume": true,
+      "volume_mm3": 80016.824,
+      "bounds_mm": [
+        [
+          -40.0,
+          -39.996574,
+          0.0
+        ],
+        [
+          40.0,
+          39.999142,
+          160.0
+        ]
+      ],
+      "components": 1
+    },
+    "verre-sans-logo.stl": {
+      "vertices": 16920,
+      "triangles": 33836,
+      "watertight": true,
+      "winding_consistent": true,
+      "positive_volume": true,
+      "volume_mm3": 78299.942,
+      "bounds_mm": [
+        [
+          -40.0,
+          -39.996574,
+          0.0
+        ],
+        [
+          40.0,
+          39.999142,
+          160.0
+        ]
+      ],
+      "components": 1
+    }
+  },
+  "parts": {
+    "corps": {
+      "vertices": 26804,
+      "triangles": 53604,
+      "watertight": true,
+      "winding_consistent": true,
+      "positive_volume": true,
+      "volume_mm3": 78150.678,
+      "bounds_mm": [
+        [
+          -40.0,
+          -39.996574,
+          0.0
+        ],
+        [
+          40.0,
+          39.999142,
+          160.0
+        ]
+      ],
+      "components": 1
+    },
+    "medaillon-rouge": {
+      "vertices": 21737,
+      "triangles": 43470,
+      "watertight": true,
+      "winding_consistent": true,
+      "positive_volume": true,
+      "volume_mm3": 1664.016,
+      "bounds_mm": [
+        [
+          -26.299999,
+          -37.892216,
+          79.699997
+        ],
+        [
+          26.299999,
+          -23.832762,
+          132.300003
+        ]
+      ],
+      "components": 1
+    },
+    "logo-blanc": {
+      "vertices": 3438,
+      "triangles": 6816,
+      "watertight": true,
+      "winding_consistent": true,
+      "positive_volume": true,
+      "volume_mm3": 137.742,
+      "bounds_mm": [
+        [
+          -22.049965,
+          -37.147362,
+          97.400032
+        ],
+        [
+          22.049963,
+          -28.497091,
+          114.749916
+        ]
+      ],
+      "components": 21
+    },
+    "vague-noire": {
+      "vertices": 3108,
+      "triangles": 6212,
+      "watertight": true,
+      "winding_consistent": true,
+      "positive_volume": true,
+      "volume_mm3": 64.388,
+      "bounds_mm": [
+        [
+          -24.333853,
+          -35.621151,
+          87.023758
+        ],
+        [
+          25.609823,
+          -24.78121,
+          100.594505
+        ]
+      ],
+      "components": 1
+    }
+  },
+  "three_mf": {
+    "mesh_count": 4,
+    "bounds_mm": [
+      [
+        -40.0,
+        -39.996574,
+        0.0
+      ],
+      [
+        40.0,
+        39.999142,
+        160.0
+      ]
+    ]
+  },
+  "partition_volume_difference_mm3": 2.7e-05
+}

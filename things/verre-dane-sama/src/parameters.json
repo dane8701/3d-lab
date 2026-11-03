@@ -1,0 +1,11 @@
+{
+  "scale": 1.0,
+  "wall_mm": 2.0,
+  "rib_count": 120,
+  "rib_depth_mm": 0.32,
+  "angular_segments": 960,
+  "mesh_tolerance_mm": 0.01,
+  "badge_radius_mm": 26.3,
+  "badge_center_z_mm": 106.0,
+  "badge_mesh_edge_mm": 0.85
+}

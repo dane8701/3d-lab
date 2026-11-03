@@ -1,0 +1,11 @@
+# Geometry generation and vector lettering
+numpy==2.3.5
+trimesh==5.2.0
+manifold3d==3.5.4
+shapely==2.2.0
+mapbox_earcut==2.1.0
+matplotlib==3.10.8
+lxml==6.1.1
+networkx==3.7
+# Preview rendering uses a CPU depth buffer and bundled Matplotlib fonts.
+Pillow==12.3.0
